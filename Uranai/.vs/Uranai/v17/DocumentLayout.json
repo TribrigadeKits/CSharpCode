@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user2023\\source\\repos\\Uranai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7378B6B-56EB-4AD4-8C1D-683D70106F10}|Uranai\\Uranai.csproj|c:\\users\\user2023\\source\\repos\\uranai\\uranai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7378B6B-56EB-4AD4-8C1D-683D70106F10}|Uranai\\Uranai.csproj|solutionrelative:uranai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7378B6B-56EB-4AD4-8C1D-683D70106F10}|Uranai\\Uranai.csproj|C:\\Users\\user2023\\source\\repos\\Uranai\\uranai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7378B6B-56EB-4AD4-8C1D-683D70106F10}|Uranai\\Uranai.csproj|solutionrelative:uranai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\user2023\\source\\repos\\Uranai\\Uranai\\Form1.cs",
+              "RelativeDocumentMoniker": "Uranai\\Form1.cs",
+              "ToolTip": "C:\\Users\\user2023\\source\\repos\\Uranai\\Uranai\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Uranai\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:12:21.163Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user2023\\source\\repos\\Uranai\\Uranai\\Form1.cs",
+              "RelativeDocumentMoniker": "Uranai\\Form1.cs",
+              "ToolTip": "C:\\Users\\user2023\\source\\repos\\Uranai\\Uranai\\Form1.cs",
+              "RelativeToolTip": "Uranai\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:48:18.042Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

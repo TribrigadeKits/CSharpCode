@@ -1,0 +1,17 @@
+C:\Users\user2023\source\repos\Uranai\Uranai\bin\Debug\net8.0-windows\Uranai.exe
+C:\Users\user2023\source\repos\Uranai\Uranai\bin\Debug\net8.0-windows\Uranai.deps.json
+C:\Users\user2023\source\repos\Uranai\Uranai\bin\Debug\net8.0-windows\Uranai.runtimeconfig.json
+C:\Users\user2023\source\repos\Uranai\Uranai\bin\Debug\net8.0-windows\Uranai.dll
+C:\Users\user2023\source\repos\Uranai\Uranai\bin\Debug\net8.0-windows\Uranai.pdb
+C:\Users\user2023\source\repos\Uranai\Uranai\obj\Debug\net8.0-windows\Uranai.FormUranai.resources
+C:\Users\user2023\source\repos\Uranai\Uranai\obj\Debug\net8.0-windows\Uranai.Properties.Resources.resources
+C:\Users\user2023\source\repos\Uranai\Uranai\obj\Debug\net8.0-windows\Uranai.csproj.GenerateResource.cache
+C:\Users\user2023\source\repos\Uranai\Uranai\obj\Debug\net8.0-windows\Uranai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user2023\source\repos\Uranai\Uranai\obj\Debug\net8.0-windows\Uranai.AssemblyInfoInputs.cache
+C:\Users\user2023\source\repos\Uranai\Uranai\obj\Debug\net8.0-windows\Uranai.AssemblyInfo.cs
+C:\Users\user2023\source\repos\Uranai\Uranai\obj\Debug\net8.0-windows\Uranai.csproj.CoreCompileInputs.cache
+C:\Users\user2023\source\repos\Uranai\Uranai\obj\Debug\net8.0-windows\Uranai.dll
+C:\Users\user2023\source\repos\Uranai\Uranai\obj\Debug\net8.0-windows\refint\Uranai.dll
+C:\Users\user2023\source\repos\Uranai\Uranai\obj\Debug\net8.0-windows\Uranai.pdb
+C:\Users\user2023\source\repos\Uranai\Uranai\obj\Debug\net8.0-windows\Uranai.genruntimeconfig.cache
+C:\Users\user2023\source\repos\Uranai\Uranai\obj\Debug\net8.0-windows\ref\Uranai.dll
